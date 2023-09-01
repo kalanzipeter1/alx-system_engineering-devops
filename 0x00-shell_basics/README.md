@@ -1,1 +1,1 @@
-Hello! this is my Shell basisc directory. Feel free to have a look 
+Hello! this is my Shell basics directory. Feel free to have a look 
