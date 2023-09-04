@@ -1,0 +1,17 @@
+total 56
+drwxrwxr-x 2 kalanzi kalanzi 4096 Sep  4 22:57 .
+drwxrwxr-x 6 kalanzi kalanzi 4096 Sep  4 15:08 ..
+-rwxrw-r-- 1 kalanzi kalanzi   32 Sep  4 15:28 0-hello_world
+-rwxrw-r-- 1 kalanzi kalanzi   28 Sep  4 15:45 1-confused_smiley
+-rwxrw-r-- 1 kalanzi kalanzi   28 Sep  4 15:48 2-hellofile
+-rwxrw-r-- 1 kalanzi kalanzi   39 Sep  4 15:54 3-twofiles
+-rwxrw-r-- 1 kalanzi kalanzi   29 Sep  4 16:04 4-lastlines
+-rwxrw-r-- 1 kalanzi kalanzi   29 Sep  4 16:09 5-firstlines
+-rwxrw-r-- 1 kalanzi kalanzi   40 Sep  4 16:20 6-third_line
+-rwxrw-r-- 1 kalanzi kalanzi   76 Sep  4 22:41 7-file
+-rwxrw-r-- 1 kalanzi kalanzi   36 Sep  4 22:57 8-cwd_state
+-rw-rw-r-- 1 kalanzi kalanzi   26 Sep  4 22:42 \*\'Best
+-rw-rw-r-- 1 kalanzi kalanzi    0 Sep  4 22:42 Best School
+-rw-rw-r-- 1 kalanzi kalanzi    1 Sep  4 22:32 *\"Best School"\\*$?*****:
+-rw-rw-r-- 1 kalanzi kalanzi    0 Sep  4 22:58 ls_cwd_content
+-rw-rw-r-- 1 kalanzi kalanzi   45 Sep  4 15:24 README.md
